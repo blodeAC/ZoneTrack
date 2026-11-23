@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: ZoneTrack
+## Notes: Tracks the quests that have a highlighted map area in your current zone and untracks the rest.
+## Version: 0.1.0
+## IconTexture: Interface\Icons\INV_Misc_Spyglass_03
+## SavedVariables: ZoneTrackSettings
+## SavedVariablesPerCharacter: ZoneTrackChar
+
+ZoneTrack.lua
